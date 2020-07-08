@@ -1,0 +1,35 @@
+#main {
+    text-align: center;
+}
+
+#title {
+    color: black;
+}
+
+#image {
+    max-width: 50%;
+    height: auto;
+}
+
+#img-div {
+    text-align: center;
+    background-color: black;
+}
+
+#img-caption {
+    color: aliceblue;
+}
+
+#tribute-info {
+    color:aliceblue;
+}
+
+ul {
+    color:aliceblue;
+    text-align: center;
+    list-style: none;
+}
+
+#tribute-link {
+    color: aliceblue;
+}
